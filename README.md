@@ -46,7 +46,7 @@ except a few changes:
 
 ## Features
 * HTML5Boilerplate html & css are included.
-* JavaScript + Stylus + Handlebars as app languages
+* JavaScript + Stylus + Jade as app languages
 (you can change this to anything you want)
 * Backbone as main MVC/MVP library, Chaplin as meta-framework.
 * Support of IE8 and up.
